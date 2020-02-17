@@ -2,3 +2,6 @@
     cursor: pointer;
 }
 
+a.dropdown-item{
+    color: black;
+}
